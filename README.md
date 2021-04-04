@@ -1,1 +1,1 @@
-# template1
+# Laravel + React + coreUI
